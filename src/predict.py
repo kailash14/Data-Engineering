@@ -16,7 +16,7 @@ def unpickle(file):
 
 
 def t():
-    os.system("python ./model/main.py")
+    os.system("python ./src/model/main.py")
 
 def r(testimgs,model,tf):
 
